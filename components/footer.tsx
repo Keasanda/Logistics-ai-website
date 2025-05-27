@@ -21,7 +21,7 @@ export default function Footer() {
           >
             <div className="mb-4">
               <Image
-                src="/images/transactlink-logo.png"
+                src="./images/transactlink-logo.png"
                 alt="TransactLink Logo"
                 width={300}
                 height={100}
