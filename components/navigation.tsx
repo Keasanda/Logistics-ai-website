@@ -30,7 +30,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="/images/transactlink-logo.png"
+              src="./images/transactlink-logo.png"
               alt="TransactLink Logo"
               width={320}
               height={110}
